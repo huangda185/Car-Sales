@@ -3,7 +3,7 @@ This repository contains the files for module 11 assignment.
 Identifying factors that drives pricing and customer sales.
 
 ## Description of Files
-- 'data.csv' - this file contains the data with all the factors that were captured for car sales. 
+- 'data.zip' - this file contains the data with all the factors that were captured for car sales. zipped due to file limitation upload on github.
 - 'car_sales.ipynb' - this file contains the code that identifies the various factors that drive prices and sales.
 
 ## Business Understanding
